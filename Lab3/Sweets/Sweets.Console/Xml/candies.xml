@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Candys>
+    <Candy Id="ID1">
+        <Name>Name1</Name>
+        <Production>Production1</Production>
+        <Ingredients>
+            <Ingredient>Ingredient1</Ingredient>
+            <Ingredient>Ingredient2</Ingredient>
+            <Ingredient>Ingredient3</Ingredient>
+        </Ingredients>
+        <Energy>10</Energy>
+        <CandyValue>
+            <Proteins>10</Proteins>
+            <Fats>20</Fats>
+            <Carbohydrates>30</Carbohydrates>
+        </CandyValue>
+        <CandyTypes>
+            <CandyType>Caramel</CandyType>
+            <CandyType>Toffee</CandyType>
+            <CandyType>Chocolate</CandyType>
+        </CandyTypes>
+    </Candy>
+    <Candy Id="ID2">
+        <Name>Name2</Name>
+        <Production>Production2</Production>
+        <Ingredients>
+            <Ingredient>Ingredient4</Ingredient>
+            <Ingredient>Ingredient5</Ingredient>
+            <Ingredient>Ingredient6</Ingredient>
+        </Ingredients>
+        <Energy>100</Energy>
+        <CandyValue>
+            <Proteins>40</Proteins>
+            <Fats>50</Fats>
+            <Carbohydrates>60</Carbohydrates>
+        </CandyValue>
+        <CandyTypes>
+            <CandyType>Caramel</CandyType>
+            <CandyType>Toffee</CandyType>
+            <CandyType>Chocolate</CandyType>
+        </CandyTypes>
+    </Candy>
+</Candys>

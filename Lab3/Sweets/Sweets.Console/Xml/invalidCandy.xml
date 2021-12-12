@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+
+<Candy Id="ID1">
+    <Name><NestedItem>AAAA</NestedItem></Name>
+    <Production>Production1</Production>
+    <Ingredients>
+        <Ingredient>Ingredient1</Ingredient>
+        <SomethingElse>SomethingElse1</SomethingElse>
+    </Ingredients>
+    <Energy>ENERGIZED!</Energy>
+    <CandyValue>
+        <Proteins>MAX</Proteins>
+    </CandyValue>
+    <CandyTypes>
+        <CandyType>BEER</CandyType>
+    </CandyTypes>
+</Candy>

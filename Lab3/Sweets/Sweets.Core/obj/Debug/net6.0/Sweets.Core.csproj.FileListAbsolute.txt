@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\bin\Debug\net6.0\Sweets.Core.deps.json
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\bin\Debug\net6.0\Sweets.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\bin\Debug\net6.0\ref\Sweets.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\bin\Debug\net6.0\Sweets.Core.pdb
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\ref\Sweets.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб3\Sweets\Sweets.Core\obj\Debug\net6.0\Sweets.Core.pdb

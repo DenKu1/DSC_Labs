@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\bin\Debug\net5.0\TicTacToe.Common.deps.json
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\bin\Debug\net5.0\TicTacToe.Common.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\bin\Debug\net5.0\ref\TicTacToe.Common.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\bin\Debug\net5.0\TicTacToe.Common.pdb
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\ref\TicTacToe.Common.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Common\obj\Debug\net5.0\TicTacToe.Common.pdb

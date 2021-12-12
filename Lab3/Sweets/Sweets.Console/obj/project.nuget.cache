@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i8zvk0EMV9OhQTKylE4FmbrWNV7IWgyUPoOYu/EsKLoWmf+dGFt1dZZJK5zOF4O2Bbv1+YWrleSEtd4c5fAT2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denis\\Desktop\\Study\\Study 7\\РСО\\Лаб3\\Sweets\\Sweets.Console\\Sweets.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denis\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

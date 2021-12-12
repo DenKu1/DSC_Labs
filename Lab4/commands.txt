@@ -1,0 +1,5 @@
+"C:\Program Files\Microsoft MPI\Bin\mpiexec.exe" -n 8 MPI.MinMax.ConsoleApp.exe
+
+cd C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб4\MatrixByVectorMPIMultiplicator\MatrixByVectorMPIMultiplicator.Console\bin\Debug\net6.0
+
+mpiexec -n 5 MatrixByVectorMPIMultiplicator.Console.exe

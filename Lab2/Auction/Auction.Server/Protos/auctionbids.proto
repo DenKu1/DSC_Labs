@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option csharp_namespace = "Auction.Server";
+
+package AuctionBids;
+
+service AuctionBids {
+	rpc RegisterBidder (RegisterBidderRequest) returns (stream UpdateItemStatusReply);
+	rpc RaiseBid (RaiseBidRequest) returns (RaiseBidReply);
+}
+
+message RegisterBidderRequest {
+	string bidderName = 1;
+}
+
+message UpdateItemStatusReply {
+	int32 status = 1;
+	string userMessage = 2;
+}
+
+message RaiseBidRequest {
+	string bidderName = 1;
+}
+
+message RaiseBidReply {
+	string userMessage = 1;
+}

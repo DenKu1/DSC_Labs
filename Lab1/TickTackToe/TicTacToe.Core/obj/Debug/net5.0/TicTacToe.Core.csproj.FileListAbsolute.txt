@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\bin\Debug\net5.0\TicTacToe.Core.deps.json
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\bin\Debug\net5.0\TicTacToe.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\bin\Debug\net5.0\ref\TicTacToe.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\bin\Debug\net5.0\TicTacToe.Core.pdb
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.AssemblyInfo.cs
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\ref\TicTacToe.Core.dll
+C:\Users\Denis\Desktop\Study\Study 7\РСО\Лаб1\TickTackToe\TicTacToe.Core\obj\Debug\net5.0\TicTacToe.Core.pdb
